@@ -2,7 +2,7 @@
 
 Business analysis · Product operations · Business analytics · BBA (FinTech) · India
 
-I'm a BBA (FinTech) graduate of CHRIST (Deemed to be University), and I work in the Product team at a healthcare services company. I'm also pursuing CMA Intermediate.
+I'm a BBA (FinTech) graduate of CHRIST (Deemed to be University), and I'm a Central Business Analytics Intern in the Product team at a healthcare services company. I'm also pursuing CMA Intermediate.
 
 I like work where the numbers lead to a decision: building dashboards and KPIs, checking data before it goes anywhere, writing requirements a tester can pass or fail, and measuring whether a change actually helped. I use AI tools to prototype and investigate faster, and treat their output as a draft that I need to test, understand and be able to explain.
 
