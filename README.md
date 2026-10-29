@@ -1,25 +1,27 @@
 # Nandini Bhati
 
-Business and product analytics · BBA FinTech · Delhi NCR, India
+Business analysis · Product operations · Business analytics · BBA (FinTech) · India
 
-I'm a Central Business Analytics Intern working in Product at a healthcare services company, and a BBA (FinTech) graduate of CHRIST (Deemed to be University), 2026. I'm also pursuing CMA Intermediate.
+I'm a BBA (FinTech) graduate of CHRIST (Deemed to be University), and I work in the Product team at a healthcare services company. I'm also pursuing CMA Intermediate.
 
-I like work where the numbers lead to a decision: building dashboards and KPIs, checking data before it goes anywhere, writing requirements a tester can pass or fail, and measuring whether a change actually helped. I use AI tools (ChatGPT, Claude) to prototype and investigate faster, and I treat their output as a draft I have to test and be able to explain.
+I like work where the numbers lead to a decision: building dashboards and KPIs, checking data before it goes anywhere, writing requirements a tester can pass or fail, and measuring whether a change actually helped. I use AI tools to prototype and investigate faster, and treat their output as a draft that I need to test, understand and be able to explain.
 
 ## Selected work
 
 | Project | What it shows |
 |---|---|
-| [Spreadsheet Validation Demo](https://github.com/NandiniB216/spreadsheet-validation-demo) | Validate-first data quality: field, cross-field and duplicate rules, a rejected-row report, 51 automated tests. Python, synthetic data. |
-| [Booking Workflow Requirements](https://github.com/NandiniB216/booking-workflow-requirements) | Product requirements for a fictional booking flow: personas, journey, acceptance criteria, business rules, edge cases, test scenarios and a measurement plan. |
-| [Call Centre Trends — Power BI](https://github.com/NandiniB216/CALL-CENTER) | One-page dashboard on 5,000 practice calls: answer rate, resolution, speed of answer, satisfaction by agent. |
+| [Spreadsheet Validation Demo](https://github.com/NandiniB216/spreadsheet-validation-demo) | Validate-first data quality using synthetic data: field, cross-field and duplicate rules, a rejected-row report, and 51 automated tests. |
+| [Booking Workflow Requirements](https://github.com/NandiniB216/booking-workflow-requirements) | Requirements for a fictional booking flow: personas, user journey, acceptance criteria, business rules, edge cases, test scenarios and a measurement plan. |
+| [Call Centre Trends — Power BI](https://github.com/NandiniB216/CALL-CENTER) | A static Power BI dashboard export analysing 5,000 practice calls, including answer rate, resolution, speed of answer and satisfaction. |
 
-## Tools
+## Skills and tools
 
-**Analysis and BI:** Excel · Power BI · Tableau · Google Analytics · Google Search Console · Bing Webmaster Tools · SQL (learning)
-**Programming:** Python (basic)
-**Product and delivery:** requirements and acceptance criteria · testing and debugging · documentation · GitHub · Vercel
+**Analytics and BI:** Excel · Power BI · Tableau · Google Analytics · Google Search Console · Bing Webmaster Tools  
+**Data and programming:** Data validation · data cleaning · Python (basic) · SQL (learning)  
+**Product and delivery:** Requirements and acceptance criteria · testing · debugging · process documentation  
 **AI-assisted work:** ChatGPT · Claude
+
+My portfolio includes AI-assisted work. I aim to distinguish the problem brief and review I contributed from code or drafts generated with AI, and I am continuing to review the projects so I can explain their decisions and limitations.
 
 ## Elsewhere
 
