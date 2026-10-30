@@ -1,28 +1,33 @@
 # Nandini Bhati
 
-Business analysis · Product operations · Business analytics · BBA (FinTech) · India
+**Business Analysis | Product Operations | Business Analytics**
 
-I'm a BBA (FinTech) graduate of CHRIST (Deemed to be University), and I'm a Central Business Analytics Intern in the Product team at a healthcare services company. I'm also pursuing CMA Intermediate.
+BBA (FinTech), CHRIST (Deemed to be University) · India
 
-I like work where the numbers lead to a decision: building dashboards and KPIs, checking data before it goes anywhere, writing requirements a tester can pass or fail, and measuring whether a change actually helped. I use AI tools to prototype and investigate faster, and treat their output as a draft that I need to test, understand and be able to explain.
+I work at the intersection of business processes, data and product delivery. My interests include turning operational questions into measurable KPIs, validating data before it enters downstream systems, translating business needs into testable requirements, and using analysis to support practical decisions.
 
-## Selected work
+I use AI tools to accelerate drafting and prototyping, but treat generated work as a starting point: I review the logic, test outputs where possible, and document limitations and my own contribution.
 
-| Project | What it shows |
+## Featured projects
+
+| Project | What it demonstrates |
 |---|---|
-| [Spreadsheet Validation Demo](https://github.com/NandiniB216/spreadsheet-validation-demo) | Validate-first data quality using synthetic data: field, cross-field and duplicate rules, a rejected-row report, and 51 automated tests. |
-| [Booking Workflow Requirements](https://github.com/NandiniB216/booking-workflow-requirements) | Requirements for a fictional booking flow: personas, user journey, acceptance criteria, business rules, edge cases, test scenarios and a measurement plan. |
-| [Call Centre Trends — Power BI](https://github.com/NandiniB216/CALL-CENTER) | A static Power BI dashboard export analysing 5,000 practice calls, including answer rate, resolution, speed of answer and satisfaction. |
+| [Spreadsheet Validation Demo](https://github.com/NandiniB216/spreadsheet-validation-demo) | Python-based, validate-first checks for a synthetic supplier register; field and cross-field rules, duplicate detection, exception reports and automated tests. |
+| [Booking Workflow Requirements](https://github.com/NandiniB216/booking-workflow-requirements) | A fictional product requirements pack with personas, user journeys, business rules, acceptance criteria, edge cases, test scenarios and a measurement plan. |
+| [Call Centre Trends — Power BI](https://github.com/NandiniB216/CALL-CENTER) | Descriptive analysis of 5,000 practice call records, with operational KPIs, findings and dashboard export. |
 
-## Skills and tools
+## Skills
 
-**Analytics and BI:** Excel · Power BI · Tableau · Google Analytics · Google Search Console · Bing Webmaster Tools  
-**Data and programming:** Data validation · data cleaning · Python (basic) · SQL (learning)  
-**Product and delivery:** Requirements and acceptance criteria · testing · debugging · process documentation  
-**AI-assisted work:** ChatGPT · Claude
+- **Business analysis:** problem framing, process understanding, requirements, user stories, acceptance criteria, business rules, edge cases, traceability
+- **Analytics:** Excel, Power BI, KPI definition, data quality checks, descriptive analysis, dashboard interpretation
+- **Data and tools:** SQL (learning), Python (basic), pytest, openpyxl, Google Analytics, Google Search Console
+- **Product delivery:** UAT thinking, test scenarios, process documentation, stakeholder-oriented recommendations
+- **AI-assisted work:** ChatGPT, Claude; review and validation of generated drafts and code
 
-My portfolio includes AI-assisted work. I aim to distinguish the problem brief and review I contributed from code or drafts generated with AI, and I am continuing to review the projects so I can explain their decisions and limitations.
+## How I present my work
 
-## Elsewhere
+I distinguish between working software, analytical exercises and documentation-only case studies. Project READMEs state the data source, what is implemented, what has been tested, known limitations and the nature of my contribution. Synthetic or fictional examples are labelled as such; I do not publish confidential employer data or internal implementation details.
+
+## Connect
 
 [LinkedIn](https://linkedin.com/in/nandini-bhati) · [ORCID](https://orcid.org/0009-0008-1535-7519)
