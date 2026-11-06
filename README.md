@@ -8,13 +8,20 @@ I work at the intersection of business processes, data and product delivery. My 
 
 I use AI tools to accelerate drafting and prototyping, but treat generated work as a starting point: I review the logic, test outputs where possible, and document limitations and my own contribution.
 
-## Featured projects
+## Projects
 
-| Project | What it demonstrates |
+| Project | What it shows |
 |---|---|
-| [Spreadsheet Validation Demo](https://github.com/NandiniB216/spreadsheet-validation-demo) | Python-based, validate-first checks for a synthetic supplier register; field and cross-field rules, duplicate detection, exception reports and automated tests. |
-| [Booking Workflow Requirements](https://github.com/NandiniB216/booking-workflow-requirements) | A fictional product requirements pack with personas, user journeys, business rules, acceptance criteria, edge cases, test scenarios and a measurement plan. |
-| [Call Centre Trends — Power BI](https://github.com/NandiniB216/CALL-CENTER) | Descriptive analysis of 5,000 practice call records, with operational KPIs, findings and dashboard export. |
+| [Call Centre Trends — Power BI](https://github.com/NandiniB216/CALL-CENTER) | Power BI dashboard from the PwC Switzerland job simulation on Forage: 5,000 practice call records, operational KPIs and findings. |
+
+## AI-drafted study cases
+
+These were drafted with Claude (AI). I use them as study cases; any changes I make after review are recorded in each repository's history.
+
+| Study case | What it covers |
+|---|---|
+| [Spreadsheet Validation Demo](https://github.com/NandiniB216/spreadsheet-validation-demo) | Validate-first checks for a synthetic supplier register: field and cross-field rules, duplicate detection, exception reports and automated tests. |
+| [Booking Workflow Requirements](https://github.com/NandiniB216/booking-workflow-requirements) | A fictional requirements pack: personas, user journeys, business rules, acceptance criteria, edge cases, test scenarios and a measurement plan. |
 
 ## Skills
 
