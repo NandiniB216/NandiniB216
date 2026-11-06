@@ -18,11 +18,10 @@ I use AI tools to accelerate drafting and prototyping, but treat generated work 
 
 ## Skills
 
-- **Business analysis:** problem framing, process understanding, requirements, user stories, acceptance criteria, business rules, edge cases, traceability
-- **Analytics:** Excel, Power BI, KPI definition, data quality checks, descriptive analysis, dashboard interpretation
-- **Data and tools:** SQL (learning), Python (basic), pytest, openpyxl, Google Analytics, Google Search Console
-- **Product delivery:** UAT thinking, test scenarios, process documentation, stakeholder-oriented recommendations
-- **AI-assisted work:** ChatGPT, Claude; review and validation of generated drafts and code
+- **Analytics:** Excel, Power BI, KPI dashboards, data cleaning, descriptive analysis
+- **Data and tools:** Python (basic), Playwright (basic), SQL (learning), Google Search Console
+- **Process and delivery:** process documentation, UAT testing
+- **AI-assisted work:** Claude and ChatGPT as coding and research assistants
 
 ## How I present my work
 
