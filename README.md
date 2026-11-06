@@ -1,6 +1,6 @@
 # Nandini Bhati
 
-**Business Analysis | Product Operations | Business Analytics**
+**Business Analysis | Product Analytics | Business Intelligence**
 
 BBA (FinTech), CHRIST (Deemed to be University) · India
 
