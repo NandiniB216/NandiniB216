@@ -2,7 +2,7 @@
 
 I'm an aspiring Business Analyst and Product Analyst with a BBA in FinTech from CHRIST University, currently preparing for CMA Intermediate. My experience includes a healthcare internship and a business development role at a student-led consultancy, where I progressed from intern to Chief of Business Development. I'm also the first author of a published quantitative study.
 
-I enjoy problems where a process quietly leaks — appointments missed, calls never answered — and where the first question is whether the data can be trusted. Right now I'm building SQL skills on a real appointments dataset, alongside Excel, Power BI and requirements work.
+I enjoy problems where a process quietly leaks — appointments missed, calls never answered — and where the first question is whether the data can be trusted. I'm building SQL skills through an appointment-analysis project while also practising requirements, user journeys, acceptance criteria and UAT documentation through independent product-analysis work.
 
 ## Published research
 
@@ -24,7 +24,11 @@ I enjoy problems where a process quietly leaks — appointments missed, calls ne
 
 **My role:** first author; I wrote the entire chapter. Abhinav Kataria (guide) and Pankaj Dhaundiyal (supervisor) guided and supervised the work.
 
-## Projects
+## Projects and case studies
+
+**[Guided Wellness Session Planner — Product Analysis Practice](product-analysis-practice/)**  
+<sub>Business analysis · Product thinking · Requirements · User journeys · Acceptance criteria · UAT · KPI/event definitions</sub>  
+An independent, fictional documentation case study. It demonstrates how I frame a product problem, state assumptions, map a user journey, write testable requirements, design UAT scenarios and define product measures. It is not an HCL product and contains no employer information. It is a documentation exercise, not a deployed application or user-tested product.
 
 **Medical Appointments No-Show Analysis**  
 <sub>SQL · SQLite · in progress · private repository</sub>  
@@ -41,8 +45,10 @@ KPI dashboard on 5,000 practice calls. The biggest gap was calls never answered 
 | **SQL**<br><sub>Learning</sub> | Medical appointments analysis (in progress) |
 | **Excel**<br><sub>Used in a business-development role</sub> | Planning and revenue models at a student-led consultancy |
 | **Power BI**<br><sub>One completed simulation project</sub> | Call Centre Trends dashboard |
-| **Requirements and UAT**<br><sub>Practising</sub> | Exposure at my healthcare internship; no public sample yet |
-| **Product analytics**<br><sub>Learning</sub> | KPI definitions in the Call Centre dashboard |
+| **Requirements and acceptance criteria**<br><sub>Practising independently</sub> | Guided Wellness Session Planner case study |
+| **User journeys and process thinking**<br><sub>Practising independently</sub> | Guided Wellness Session Planner case study |
+| **UAT test design**<br><sub>Practising</sub> | Test scenarios in the product-analysis practice case |
+| **Product analytics**<br><sub>Learning</sub> | Proposed event taxonomy and KPI definitions in the case study |
 | **Python**<br><sub>Learning the basics</sub> | Ran the published study's analyses; the code was written and debugged with an AI assistant |
 | **Git and GitHub**<br><sub>Learning</sub> | This profile and its repositories |
 
@@ -51,5 +57,6 @@ KPI dashboard on 5,000 practice calls. The biggest gap was calls never answered 
 - Good analysis starts with understanding the problem and questioning the quality of the data.
 - I keep what the data shows separate from why it might be happening and what to do about it.
 - I use AI tools to learn and build, and I say where I've used them. Each project explains the problem, approach, findings, limitations and my own contribution.
+- I distinguish independent practice and proposed designs from implemented, tested or production work.
 
 [LinkedIn](https://linkedin.com/in/nandini-bhati) · [ORCID](https://orcid.org/0009-0008-1535-7519)
