@@ -13,6 +13,9 @@ I enjoy problems where a process quietly leaks — appointments missed, calls ne
 
 **My role:** first author. I acquired, analysed and interpreted the data and ran the analyses. All three authors shared the study design and drafting, and my two co-authors supervised the work. As disclosed in the paper, an AI assistant (Claude) was used for literature searches and source verification, to write and debug the analysis code, and to draft and edit the text.
 
+**[Sustainability-Driven Cognitive Digital Twins for Enterprise Transformation](https://doi.org/10.4018/979-8-2600-1669-5.ch014)**  
+<sub>Book chapter in <i>Digital Twin Applications and Cognitive Enterprise Transformation Across Industries</i>, pp. 363–410<br>Bhati N, Kataria A, Dhaundiyal P · IGI Global Scientific Publishing · 2026 · DOI 10.4018/979-8-2600-1669-5.ch014</sub>
+
 ## Projects
 
 **[Call Centre Trends](https://github.com/NandiniB216/CALL-CENTER)**  
