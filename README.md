@@ -20,17 +20,13 @@ I enjoy problems where a process quietly leaks — appointments missed, calls ne
 
 ## Projects
 
+**Medical Appointments No-Show Analysis**  
+<sub>SQL · SQLite · in progress · private repository</sub>  
+Learning SQL on a public dataset of 49,593 therapy appointments, starting with data-quality checks. Queries and findings will be published once I can explain every one of them.
+
 **[Call Centre Trends](https://github.com/NandiniB216/CALL-CENTER)**  
 <sub>Power BI · Forage job simulation (PwC Switzerland)</sub>  
 KPI dashboard on 5,000 practice calls. The biggest gap was calls never answered (18.9%), not calls left unresolved: about 90% of answered calls were resolved.
-
-**Medical Appointments No-Show Analysis**  
-<sub>SQL · SQLite · in progress</sub>  
-Learning SQL on a public dataset of 49,593 therapy appointments, starting with data-quality checks. Queries and findings will be published once I can explain every one of them.
-
-**AI-assisted study cases** — created with AI assistance (Claude) to study how this work is done:
-- [SlotSure booking workflow](https://github.com/NandiniB216/booking-workflow-requirements): requirements, acceptance criteria, test scenarios and KPIs for a fictional booking flow
-- [Spreadsheet validation demo](https://github.com/NandiniB216/spreadsheet-validation-demo): checks synthetic supplier data for missing, invalid and duplicate records
 
 ## Skills, and where they show up
 
@@ -39,8 +35,8 @@ Learning SQL on a public dataset of 49,593 therapy appointments, starting with d
 | **SQL**<br><sub>Learning</sub> | Medical appointments analysis (in progress) |
 | **Excel**<br><sub>Used in a business-development role</sub> | Planning and revenue models at a student-led consultancy |
 | **Power BI**<br><sub>One completed simulation project</sub> | Call Centre Trends dashboard |
-| **Requirements and UAT**<br><sub>Practising</sub> | SlotSure study case (AI-assisted) |
-| **Product analytics**<br><sub>Learning</sub> | KPI definitions in the Call Centre dashboard; SlotSure measurement plan (AI-assisted) |
+| **Requirements and UAT**<br><sub>Practising</sub> | Exposure at my healthcare internship; no public sample yet |
+| **Product analytics**<br><sub>Learning</sub> | KPI definitions in the Call Centre dashboard |
 | **Python**<br><sub>Learning the basics</sub> | Ran the published study's analyses; the code was written and debugged with an AI assistant |
 | **Git and GitHub**<br><sub>Learning</sub> | This profile and its repositories |
 
