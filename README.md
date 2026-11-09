@@ -18,6 +18,12 @@ I enjoy problems where a process quietly leaks — appointments missed, calls ne
 **[Sustainability-Driven Cognitive Digital Twins for Enterprise Transformation](https://doi.org/10.4018/979-8-2600-1669-5.ch014)**  
 <sub>Book chapter in <i>Digital Twin Applications and Cognitive Enterprise Transformation Across Industries</i>, pp. 363–410<br>Bhati N, Kataria A, Dhaundiyal P · IGI Global Scientific Publishing · 2026 · DOI 10.4018/979-8-2600-1669-5.ch014</sub>
 
+**What it covers:** A conceptual chapter on enterprise asset management. Digital twins (virtual replicas of physical assets) are mostly used for monitoring, and maintenance is often reactive, which limits prediction and long-term cost and environmental optimisation. The chapter proposes a framework for *cognitive* digital twins that also support decisions: a multi-layer architecture that builds in capabilities such as perception, memory, reasoning and learning to support predictive analytics, lifecycle management and decision-making, with sustainability and circular resource use built in, in line with Industry 5.0.
+
+**Scope:** proposes and argues for a framework; it does not report an empirical test of it.
+
+**My role:** first author; I wrote the entire chapter. Abhinav Kataria (guide) and Pankaj Dhaundiyal (supervisor) guided and supervised the work.
+
 ## Projects
 
 **Medical Appointments No-Show Analysis**  
