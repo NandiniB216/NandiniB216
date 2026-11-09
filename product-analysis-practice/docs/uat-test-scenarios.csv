@@ -1,0 +1,16 @@
+Test ID,Requirement,Scenario,Precondition,Action,Expected result,Priority
+UAT-01,FR-01,Session details are visible,Session list is loaded,Open session list,Duration space and equipment details are shown,High
+UAT-02,FR-01,Missing metadata is handled,One session has missing equipment data,Open session details,Field is labelled unavailable; no value is invented,Medium
+UAT-03,FR-02,User selects a session,Session list is loaded,Select a session,Correct session details are displayed,High
+UAT-04,FR-02,User changes selection,Session details are open,Return to list and select another,New session details are displayed,Medium
+UAT-05,FR-03,Readiness is confirmed,Session details are open,Choose begin,Preparation information appears before start,High
+UAT-06,FR-03,User is not ready,Preparation step is open,Choose go back,Session does not start,High
+UAT-07,FR-04,Pause active session,Session is active,Choose pause,Paused state is visible,High
+UAT-08,FR-04,Resume paused session,Session is paused,Choose resume,Session returns to active state,High
+UAT-09,FR-04,Paused is not complete,Session is paused,Open progress summary,Session is not marked completed,High
+UAT-10,FR-05,Exit before completion,Session is active with steps remaining,Choose exit,Session is marked incomplete,High
+UAT-11,FR-05,Incomplete state is clear,Session was exited early,Open summary,No completion success state is displayed,High
+UAT-12,FR-06,Complete all required steps,All mandatory steps are complete,Choose finish,Completion summary is displayed,High
+UAT-13,FR-06,Exit with required steps remaining,At least one mandatory step remains,Choose exit,Completion summary is not displayed,High
+UAT-14,NFR-ACCESS,Keyboard navigation,Planner is open,Use keyboard only,All primary controls can be reached and operated,Medium
+UAT-15,NFR-PRIVACY,Permission explanation,Feature requiring a permission is introduced,Review permission prompt,Reason and purpose are explained before request,High
